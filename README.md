@@ -1,5 +1,3 @@
-# A Dataset and Benchmark for Copyright Protection from Text-to-Image Diffusion Models
-
 # ⚙️ Demo 
 Click here: https://c08947cdc762.ngrok.app/
 
