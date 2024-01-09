@@ -1,5 +1,6 @@
 # Demo 
-📄 Paper: 
+📄 Paper: https://github.com/rmpku/CPDM/blob/main/CPDM_arxiv.pdf
+
 🔗 Link: https://c08947cdc762.ngrok.app/        
 
 📽️ Video: https://github.com/rmpku/CPDM/tree/main/demo_video
