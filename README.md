@@ -11,8 +11,6 @@
 
 📄 Page: [https://github.com/rmpku/CPDM-page](https://rmpku.github.io/CPDM-page/)  or  http://zhouq.net
 
-![Figure](CPDM-fig.png)
-
 ![Demo](https://github.com/rmpku/CPDM/blob/main/demo.png)
 
 
