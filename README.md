@@ -1,4 +1,4 @@
-**A Dataset and Benchmark for Copyright Protection from Text-to-Image Diffusion Models**
+**A Dataset and Benchmark for Copyright Infringement Unlearning from Text-to-Image Diffusion Models**
 
 #
 📄 Paper: https://github.com/rmpku/CPDM-page/blob/main/paper.pdf
